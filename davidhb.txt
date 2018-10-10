@@ -1,5 +1,7 @@
-this is my new file
+this is my file
 
 this this this this
 
 this is my new file
+
+new line here
